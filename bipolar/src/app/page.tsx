@@ -4,7 +4,7 @@ import Index from './component/Index'
 const page = () => {
   return (
     <div>
-        dineshs
+      dinesh and niranjan
         <Index/>
     </div>
   )
